@@ -1,1 +1,1 @@
-# SortingVisualizer
+Visualize different sorting algorithms (Using [raylib](https://github.com/raysan5/raylib) and [raygui](https://github.com/raysan5/raygui)).
